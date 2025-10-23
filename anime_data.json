@@ -1,0 +1,42 @@
+{
+  "attack_on_titan": {
+    "title": "Атака Титанов",
+    "description": "История о выживании человечества против титанов",
+    "poster": "https://ваш-сайт.ru/video/posters/attack_on_titan.png",
+    "episodes": {
+      "1": {
+        "title": "Тому день, когда я тебе крикнул: Смирись",
+        "dubs": {
+          "anilibria": {
+            "quality": {
+              "720p": "https://ваш-сайт.ru/video/anilibria/attack_on_titan/720p/1.mp4",
+              "1080p": "https://ваш-сайт.ru/video/anilibria/attack_on_titan/1080p/1.mp4"
+            }
+          },
+          "animevost": {
+            "quality": {
+              "720p": "https://ваш-сайт.ru/video/animevost/attack_on_titan/720p/1.mp4"
+            }
+          }
+        }
+      }
+    }
+  },
+  "demon_slayer": {
+    "title": "Истребитель демонов",
+    "description": "Тандзиро становится истребителем демонов чтобы спасти сестру",
+    "poster": "https://ваш-сайт.ru/video/posters/demon_slayer.jpg",
+    "episodes": {
+      "1": {
+        "title": "Жестокость",
+        "dubs": {
+          "anilibria": {
+            "quality": {
+              "720p": "https://ваш-сайт.ru/video/anilibria/demon_slayer/720p/1.mp4"
+            }
+          }
+        }
+      }
+    }
+  }
+}
